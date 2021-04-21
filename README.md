@@ -1,6 +1,6 @@
 # WebGL Examples
 
-Requires WebAssembly and WebGL support.
+Requires WebAssembly and WebGL support. This repository is the web demo portion of Basis Universal. To learn more about Basis Universal please visit the [Basis Universal repository](https://github.com/BinomialLLC/basis_universal).
 
 ## Texture
 
